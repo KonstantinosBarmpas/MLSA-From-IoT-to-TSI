@@ -6,7 +6,7 @@
 
 ---
 
-[MLSA]: ./images/MLSA.png "MLSA"
+[MLSA]: ./images/MLSA_im.png "MLSA"
 
 **Abstract**
 
