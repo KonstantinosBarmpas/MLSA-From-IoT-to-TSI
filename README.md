@@ -20,7 +20,7 @@ This repository contains the following files:
 
 2. The "data folder" which contains the data used in the hands-on demo and downloaded from  [[Global Temperature Time Series (here)](https://datahub.io/core/global-temp#resource-monthly)] 
 
-3. The "Python script" that turns our data csv file into JSON objects readable from the Time-Series Insights (TSI) mechanism and sends the JSON objects to the specified Time-Series Insights (TSI).
+3. The "Part A" and "Part B" folders with the neccessary code to send data to Azure's Blob Storage, to create docker and call it and to turn our data csv file into JSON objects readable from the Time-Series Insights (TSI) mechanism and send the JSON objects to the specified Time-Series Insights (TSI).
 
 ![MLSA]
 
